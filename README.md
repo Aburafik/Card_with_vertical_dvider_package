@@ -4,7 +4,9 @@ A Flutter package that gives you the ability to have a card with Circle avater a
 
 ## Example
 
-![Alt Text](https://giphy.com/embed/WzMV4L0r1iCXjlj6o9)
+<!-- ![Alt Text](https://giphy.com/embed/WzMV4L0r1iCXjlj6o9) -->
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG11MGdpdnlkOWNhNW51YXJoc2FlcTlkZXJqdmZxMjRvanpkcGhiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzMV4L0r1iCXjlj6o9/giphy.gif)
+
 
 ## Descriptions
 
