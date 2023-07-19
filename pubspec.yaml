@@ -1,7 +1,8 @@
 name: card_vertical_divider
 description: A cross platform flutter package which provides a decorated card with vertical divider.
 version: 0.0.1
-homepage:
+
+homepage: https://github.com/Aburafik/Card_with_vertical_dvider_package.git
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
